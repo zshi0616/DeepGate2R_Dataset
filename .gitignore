@@ -1,0 +1,15 @@
+*.DS_store
+*__pycache__
+*pyc
+
+tmp
+data
+exp
+npz
+fig
+
+CondSim/__pycache__
+CondSim/simulator
+
+src_bak
+run/bak
